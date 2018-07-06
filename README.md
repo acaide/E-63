@@ -1,9 +1,9 @@
 # E-63
-Big Data Analytics, Harvard University Extension 
-Fall 2017
+##Big Data Analytics, Harvard University Extension 
+##Fall 2017
 
 
-Full Syllabus:
+###Full Syllabus:
 
 The emphasis of this course is on mastering two most important big data technologies: Spark 2 and Deep Learning with TensorFlow.  Spark is an evolution of Hadoop and Map/Reduce but with massive speedup and scalability improvements. TensorFlow is Google's open-source framework for distributed neural networks-based machine learning. 
 
