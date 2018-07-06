@@ -1,6 +1,6 @@
 # E-63
 ## Big Data Analytics, Harvard University Extension 
-## Fall 2017
+ Fall 2017
 
 
 ### Full Syllabus:
